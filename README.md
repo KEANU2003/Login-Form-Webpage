@@ -15,7 +15,7 @@
 
 ## 🖼️ پیش‌نمایش
 
-(https://github.com/KEANU2003/Login-Form-Webpage/pull/1#issue-3237834754)
+![Preview](https://github.com/KEANU2003/Login-Form-Webpage/pull/1#issue-3237834754)
 
 ## 🛠️ تکنولوژی‌های استفاده‌شده
 
